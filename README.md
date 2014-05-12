@@ -1,2 +1,3 @@
 Tappy-Plane
 ===========
+A totally unique game. Flappy Bird? Nope, never heard of it...
